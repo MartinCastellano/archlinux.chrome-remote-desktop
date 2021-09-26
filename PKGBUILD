@@ -5,7 +5,7 @@
 # Contributor: Mateus Rodrigues Costa <charles [dot] costar [at] gmail [dot] com>
 
 pkgname=chrome-remote-desktop
-pkgver=94.0.4606.27 #93.0.4577.16 
+pkgver=94.0.4606.27
 pkgrel=1
 pkgdesc="Access other computers or allow another user to access your computer securely over the Internet"
 arch=("x86_64")
